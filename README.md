@@ -58,6 +58,8 @@ New Canned Response
 
 ![image](https://github.com/KitchReeves/OS-Ticket-config/assets/158783649/c17925a3-7cbd-43e8-a05e-5a7b05e43ef0)
 
+View https://github.com/KitchReeves/ticket-lifecycle- for Ticket life cycle
+
 
 
 
